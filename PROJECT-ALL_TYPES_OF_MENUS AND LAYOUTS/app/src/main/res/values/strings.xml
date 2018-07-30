@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">GridProject2</string>
+    <string name="guide">Hit the Menu Button!</string>
+    <string-array name="honda">
+        <item>Fletcher Jones Honda\nAddress: 1111 N Clark St Suite 2, Chicago, IL 60610</item>
+        <item>Honda City Chicago\nAddress: 4950 S Pulaski Rd, Chicago, IL 60632 </item>
+        <item>McGrath City Honda\nAddress:6720 W Grand Ave, Chicago, IL 60707 </item>
+    </string-array>
+
+
+    <string-array name="lincoln">
+        <item>Fox Ford Lincoln\nAddress: 2501 N Elston Ave, Chicago, IL 60647</item>
+        <item>Lincoln Auto Sale\nAddress: 454 N Western Ave, Chicago, IL 60612</item>
+        <item>Greater Chicago Motors\nAddress: 1850 N Elston Ave, Chicago, IL 60642</item>
+    </string-array>
+    <string-array name="ford">
+        <item>Fox Ford Lincoln\nAddress: 2501 N Elston Ave, Chicago, IL 60647</item>
+        <item>Metro Ford Sales and Service\nAddress: 6455 S Western Ave, Chicago, IL 60636</item>
+        <item>McCarthy Ford\nAddress: 11400 S Pulaski Rd, Chicago, IL 60655</item>
+    </string-array>
+    <string-array name="nissan">
+        <item>Berman Nissan of Chicago\nAddress:3456 N Kedzie Ave, Chicago, IL 60618</item>
+        <item>Chicago Car Connections\nAddress: 6520 S Western Ave, Chicago, IL 60636</item>
+        <item>Western Avenue Nissan\nAddress: 7410 S Western Ave, Chicago, IL 60636</item>
+    </string-array>
+
+    <string-array name="chrysler">
+        <item>South Chicago Dodge Chrysler Jeep\nAddress: 7340 S Western Ave, Chicago, IL 60636</item>
+        <item>Marino Chrysler Jeep Dodge\nAddress: 5133 W Irving Park Rd, Chicago, IL 60641</item>
+        <item>Napleton\'s Northwestern Chrysler Jeep Dodge Ram\nAddress: 5950 N Western Ave, Chicago, IL 60659</item>
+    </string-array>
+
+    <string-array name="dodge">
+        <item>Midway Dodge\nAddress:4747 S Pulaski Rd, Chicago, IL 60632</item>
+        <item>South Chicago Dodge Chrysler Jeep\nAddress: 7340 S Western Ave, Chicago, IL 60636</item>
+        <item>Marino Chrysler Jeep Dodge\nAddress: 5133 W Irving Park Rd, Chicago, IL 60641</item>
+    </string-array>
+    <string-array name="tesla">
+        <item>Tesla\nAddress:1053 W Grand Ave, Chicago, IL 60642</item>
+        <item>Greater Chicago Motors\nAddress: 1850 N Elston Ave, Chicago, IL 60642</item>
+        <item>Windy City Motors\nAddress: 2662 N Cicero Ave, Chicago, IL 60639</item>
+    </string-array>
+    <string-array name="bmw">
+        <item>Greater Chicago Motors\nAddress: 1035 N Clark St, Chicago, IL 60610</item>
+        <item>Perillo BMW\nAddress: 7340 S Western Ave, Chicago, IL 60636</item>
+        <item>Midwest Performance Cars\nAddress: 1385 W Lake St, Chicago, IL 60607</item>
+    </string-array>
+    <string-array name="benz">
+        <item>Mercedes-Benz of Chicago\nAddress: 1520 W North Ave, Chicago, IL 60642</item>
+        <item>Top Car Motors\nAddress: 5480 N Elston Ave, Chicago, IL 60630</item>
+        <item>Greater Chicago Motors\nAddress: 1035 N Clark St, Chicago, IL 60610</item>
+    </string-array>
+    <string-array name="gmc">
+        <item>Rogers Buick GMC\nAddress: 2720 S Michigan Ave, Chicago, IL 60616</item>
+        <item>G M Imports Auto Inc\nAddress: 7239 S Western Ave, Chicago, IL 60636</item>
+        <item>Greater Chicago Motors\nAddress: 1850 N Elston Ave, Chicago, IL 60642</item>
+    </string-array>
+    <string-array name="jeep">
+        <item>South Chicago Dodge Chrysler Jeep\nAddress: 7340 S Western Ave, Chicago, IL 60636</item>
+        <item>Marino Chrysler Jeep Dodge\nAddress: 5133 W Irving Park Rd, Chicago, IL 60641</item>
+        <item>Napleton\'s Northwestern Chrysler Jeep Dodge Ram\nAddress: 5950 N Western Ave, Chicago, IL 60659</item>
+    </string-array>
+    <string-array name="toyota">
+        <item>Grossinger City Toyota\nAddress: 1561 N Fremont St, Chicago, IL 60642</item>
+        <item>Midtown Toyota\nAddress: 2700 N Cicero Ave, Chicago, IL 60639</item>
+        <item>Toyota On Western\nAddress: 6941 S Western Ave, Chicago, IL 60636</item>
+    </string-array>
+
+</resources>
+
+
